@@ -6,7 +6,7 @@ class Home extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return  Scaffold(
-      appBar:AppBar(title:const Text('home page from feature1')) ,
+      appBar:AppBar(title:const Text('home page from main')) ,
      body:SafeArea(
       child:Column(
      children: [
